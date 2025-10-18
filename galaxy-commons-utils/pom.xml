@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pe.edu.galaxy.training.library</groupId>
 	<artifactId>galaxy-commons-utils</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>galaxy-commons-utils</name>
